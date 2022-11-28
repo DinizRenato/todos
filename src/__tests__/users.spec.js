@@ -40,4 +40,5 @@ describe('Users', () => {
 
     expect(response.body.error).toBeTruthy();
   });
+
 });
